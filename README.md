@@ -2,7 +2,7 @@
 
 A self-contained HTML reference page hosting custom instructions for purpose-built AI assistants used by educators, administrators, and office staff.
 
-**Live site:** [your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
+**Live site:** [https://mguhlin.github.io/aici/index.html](https://mguhlin.github.io/aici/index.html)
 
 ---
 
